@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Yanone+Kaffeesatz:wght@500&display=swap');
+
+.separador2
+{
+    border-top: 1px solid black;
+}
+.titulo 
+{
+   float: right;
+   background-color: #c5beb4;   
+   border: solid 10px #c5beb4;
+   
+}
+
+.encabezado
+{   
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    padding-top: 0%;
+    text-align: right;
+    padding-right: 22%;
+}
+
+.subtitulo
+{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.separador
+{
+    border-top: 1px solid black;
+
+}
+.texto
+{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+
+.skills
+{
+    letter-spacing: 1px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    float: left;
+    background-color: #c5beb4;   
+    border: solid 10px #c5beb4;
+    
+}
+.encabezado2
+{   
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    padding-right: 10%;
+    text-align: right;
+}
+
