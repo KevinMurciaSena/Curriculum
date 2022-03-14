@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css02?family=Roboto+Condensed:wght@300&family=Yanone+Kaffeesatz:wght@500&display=swap');
+
+.titulo 
+{
+   background-color: #5a6e60; 
+   color: white;
+   border-top: 1px solid #5a6e60;
+}
+
+#encabezado
+{
+    font-family:'Roboto Condensed', sans-serif; 
+    padding-left: 15%;
+}
+
+#texto 
+{
+    padding-right: 25%;
+    text-align: right;
+}
+
+#texto2
+{
+    background-color: #afa797;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}

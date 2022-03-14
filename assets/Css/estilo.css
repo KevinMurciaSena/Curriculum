@@ -6,10 +6,12 @@
 }
 .titulo 
 {
-   float: right;
-   background-color: #c5beb4;   
-   border: solid 10px #c5beb4;
    
+   float: left;
+   background-color: #c5beb4; 
+   padding: 10px;  
+   border-left: 1px solid black;
+   border-right: 1px solid black;
 }
 
 .encabezado
@@ -19,7 +21,7 @@
     font-family: 'Yanone Kaffeesatz', sans-serif;
     padding-top: 0%;
     text-align: right;
-    padding-right: 22%;
+    padding-right: 25%;
 }
 
 .subtitulo
@@ -40,12 +42,13 @@
 
 .skills
 {
+ 
     letter-spacing: 1px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     float: left;
     background-color: #c5beb4;   
-    border: solid 10px #c5beb4;
-    
+    padding: 10px;  
+    border-bottom: 436px solid #c5beb4;
 }
 .encabezado2
 {   
@@ -56,3 +59,58 @@
     text-align: right;
 }
 
+.estudios
+{
+ 
+    letter-spacing: 1px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    float: left;
+    background-color: #c5beb4;   
+    border: solid 10px #c5beb4;
+}
+
+.encabezado3
+{   
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    padding-right: 42%;
+    text-align: right;
+}
+.separador1
+{ 
+    border-top: 2px solid black;
+}
+
+A
+{ 
+  text-decoration: none;
+}
+
+.foto
+{
+    background-color: #c5beb4;
+    float: left;
+    border-right: 10px solid #c5beb4;
+    padding-left: 10px;
+    border-bottom: 234px solid #c5beb4;
+}
+
+.yo
+{   
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 240px;
+ 
+}
+.h3
+{
+    letter-spacing: 1px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.frases
+{
+    text-align: center;
+}
