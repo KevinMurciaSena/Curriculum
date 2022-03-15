@@ -27,3 +27,73 @@
     text-align: center;
     padding: 5px;
 }
+
+img
+{
+    padding-left: 15%; 
+    width: 200px;
+}
+
+.fotoyo
+{
+    padding-top: 5px;
+    padding-right: 750px;
+    float:right;
+}
+
+.texto
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.encabezado
+{
+    font-family:'Roboto Condensed', sans-serif; 
+    text-align: center;
+}
+
+.subtitulo
+{
+    text-align: center;
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+}
+
+
+.todo
+{
+    width: 1000px;
+}
+
+#marcas
+{
+    font-size:20px;
+    font-weight:bold;
+}
+.separador
+{
+    border-top: 1px solid black;
+
+}
+
+.todo2
+{
+    width: 1000px;
+}
+
+A
+{ 
+  text-decoration: none;
+}
+
+.frases
+{
+    text-align: center;
+}
+
+.mifoto
+{
+   padding-right: 10px;
+}
